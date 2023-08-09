@@ -1,5 +1,5 @@
 ## Hello
-I'm Aidan, a Web Developer who specialized in PHP frameworks, like WordPress. I love working with PHP, CSS, and simple JS frameworks like Alpine.js.
+I'm Aidan, a Web Developer who specialized in PHP frameworks, like WordPress. I love working with PHP, CSS, and simple JS frameworks like Alpine.js & Vue.js.
 - I'm currently working for Arkansas Federal Credit Union as their developer/webmaster
 - I also freelance at [Cottontail Creative](https://cottontailcreative.com), where I work on WordPress websites, HTML Landing Pages, headless websites, and occassionaly Shopify stores.
 - I just finished my [my personal portfolio](https://github.com/aidanweltner/folio22) with [Statamic](https://statamic.com)
